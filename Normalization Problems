@@ -1,0 +1,9 @@
+Data Normalization problems occur when you break the following rules.
+1. Repeating data groups
+2. Multiple uses of the same attribute
+3. Multiple occurences of the same fact
+4. Conflicting facts
+5. Missing Information
+
+Repeating data groups goes against First Normal Form. Which means you entered in repeating data within the first two columns
+Basically normalization problems occur when you break the First Normal Form, Second Normal Form, Third Normal Form, and BCNF.
